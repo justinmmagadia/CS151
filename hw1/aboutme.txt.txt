@@ -1,0 +1,12 @@
+Your Name: Justin Magadia
+Your student ID: 010939149
+Your major: Software Engineering
+Your preferred email address: justin.m.magadia@gmail.com
+Check one: [X] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [X] No
+Place and semester where you took a programming course in Java: CS 46A, Fall 2016 
+Course number and grade received: A
+Place and semester where you took a course in data structures: CS 46B, Spring 2017
+Course number and grade received: C
+Time it took you to answer the two questions below: 6 hours
+Did you ask anyone for help? [X] Yes, [ ] No
